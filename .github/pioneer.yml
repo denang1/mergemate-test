@@ -1,0 +1,5 @@
+protection: {
+  rule: {
+    required_reviewers: 2
+  }
+}

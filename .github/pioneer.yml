@@ -1,5 +1,8 @@
 protection: {
-  rule: {
+  [
+  {
+    branch: "master",
     required_reviewers: 2
   }
+  ]
 }
